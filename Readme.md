@@ -1,5 +1,4 @@
-
-# genai-ecommerce-auto-labeling
+#Intelligent Product Taxonomy & Auto-Labeling Assistant
 A GenAI-powered auto-labeling system for e-commerce products using LLMs and prompt engineering to reduce mislabeling under ambiguous language conditions.
 
 **GenAI-Based Auto-Labeling System for E-Commerce Products**
